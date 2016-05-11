@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hubot-slack
 
 This is a [Hubot](http://hubot.github.com/) adapter to use with [Slack](https://slack.com).
@@ -74,3 +75,6 @@ If you're using the [hubot-auth](https://github.com/hubot-scripts/hubot-auth/) s
 ## Copyright
 
 Copyright &copy; Slack Technologies, Inc. MIT License; see LICENSE for further details.
+=======
+# ureta-bot
+>>>>>>> 82bd4068440c585fd2a4845e60b2a54446860376
