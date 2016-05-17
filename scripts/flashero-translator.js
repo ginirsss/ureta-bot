@@ -15,13 +15,18 @@
 
 
 var flashearte = {
-  "se" : "ce",
-  "ce" : "se",
-  "ze": "se",
-  "v":"b",
-  "b":"v",
-  "h" : "",
-  "H": ""
+  "se"  : "ce",
+  "ce"  : "se",
+  "ze"  : "se",,
+  "ci"  : "si",
+  "si"  : "ci",
+  "zi"  : "si",
+  "v"   :"b",
+  "b"   :"v",
+  "h"   : "",
+  "H"   : "",
+  "ll"  ; "y",
+  "y"   : "ll"
 };
 
 function flashTranslator(string){
