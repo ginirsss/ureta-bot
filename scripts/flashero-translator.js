@@ -23,10 +23,26 @@ var flashearte = {
   "zi"  : "si",
   "v"   : "b",
   "b"   : "v",
-  "h"   : "",
-  "H"   : "",
-  "ll"  : "y",
-  "y"   : "ll"
+  "ho"   : "o",
+  "Ho"   : "o",
+  "ha"   : "a",
+  "Ha"   : "a",
+  "he"   : "e",
+  "He"   : "e",
+  "hi"   : "i",
+  "Hi"   : "i",
+  "hu"   : "u",
+  "Hu"   : "u",
+  "llo"  : "yo",
+  "yo"   : "llo",
+  "lla"  : "ya",
+  "ya"   : "lla",
+  "lle"  : "ye",
+  "ye"   : "lle",
+  "lli"  : "yi",
+  "yi"   : "lli",
+  "llu"  : "yu",
+  "yu"   : "llu"
 };
 
 function flashTranslator(string){
