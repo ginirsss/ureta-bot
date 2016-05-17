@@ -21,11 +21,11 @@ var flashearte = {
   "ci"  : "si",
   "si"  : "ci",
   "zi"  : "si",
-  "v"   :"b",
-  "b"   :"v",
+  "v"   : "b",
+  "b"   : "v",
   "h"   : "",
   "H"   : "",
-  "ll"  ; "y",
+  "ll"  : "y",
   "y"   : "ll"
 };
 
