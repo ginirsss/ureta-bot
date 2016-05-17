@@ -13,7 +13,7 @@
 // Author:
 //   @jorgeepunan
 
-var garabatus = ['sapoculiao','cómete un pan con pico','chúpalo','sale conchetumare'];
+var garabatus = ['sapoculiao','cómete un pan con pico','chúpalo','sale conchetumare','chupaelpico','tesapoelchupo','carepico','pico','maracaculia','con la punta del pico','esperenme, voy a cambiarme la toallita','micropene','queri un pan con tula CTM'];
 
 function flakuTranslator (string) {
 
