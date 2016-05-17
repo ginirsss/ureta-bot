@@ -17,7 +17,7 @@
 var flashearte = {
   "se"  : "ce",
   "ce"  : "se",
-  "ze"  : "se",,
+  "ze"  : "se",
   "ci"  : "si",
   "si"  : "ci",
   "zi"  : "si",
