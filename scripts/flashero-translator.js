@@ -21,7 +21,9 @@ var flashearte = {
   "v":"b",
   "b":"v",
   "h" : "",
-  "H": ""
+  "H": "",
+  "ll"; "y",
+  "y": "ll"
 };
 
 function flashTranslator(string){
