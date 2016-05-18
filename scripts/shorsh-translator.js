@@ -34,7 +34,12 @@ var garabatinhos = [
   'llorandrew culiao callate',
   'me pica un coco',
   'hiciste commit reculiao',
-  'anima la wea con CSS3, como hombre culiao'
+  'anima la wea con CSS3, como hombre culiao',
+  'me siento solito',
+  'nadie me quiere, pooooor queee',
+  'tengo mala cuea con las minas',
+  'me duele el orto',
+  'ñau ven para metertelo'
   ];
 
 function shorshTranslator (string) {
