@@ -13,7 +13,7 @@
 // Author:
 //   @jorgeepunan
 
-var garabatus = ['wena care pico','sapoculiao','cómete un pan con pico','chúpalo','sale conchetumare','chupaelpico','tesapoelchupo','carepico','pico','maracaculia','con la punta del pico','esperenme, voy a cambiarme la toallita','micropene','queri un pan con tula CTM','fina la wea tiene hocico de pirata','se me calento el hocico','mande a la mierda al viejo culiao'];
+var garabatus = ['se me paro el pico','wena care pico','sapoculiao','cómete un pan con pico','chúpalo','sale conchetumare','chupaelpico','tesapoelchupo','carepico','pico','maracaculia','con la punta del pico','esperenme, voy a cambiarme la toallita','micropene','queri un pan con tula CTM','fina la wea tiene hocico de pirata','se me calento el hocico','mande a la mierda al viejo culiao'];
 
 function flakuTranslator (string) {
 
