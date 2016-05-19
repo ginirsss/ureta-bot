@@ -36,10 +36,10 @@ var garabatinhos = [
   'hiciste commit reculiao',
   'anima la wea con CSS3, como hombre culiao',
   'me siento solito',
-  'nadie me quiere, pooooor queee',
+  'nadie me quiere pooooor queee',
   'tengo mala cuea con las minas',
   'me duele el orto',
-  'ñaucito ven para metertelo'
+  'nhaucito ven para metertelo'
   ];
 
 function shorshTranslator (string) {
