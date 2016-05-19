@@ -39,7 +39,7 @@ var garabatinhos = [
   'nadie me quiere, pooooor queee',
   'tengo mala cuea con las minas',
   'me duele el orto',
-  'ñau ven para metertelo'
+  'ñaucito ven para metertelo'
   ];
 
 function shorshTranslator (string) {
