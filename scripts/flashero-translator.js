@@ -58,7 +58,7 @@ module.exports = function(robot) {
   robot.respond(/flash (.*)/i, function(res) {
     var texto = res.match[1];
 
-    res.send( flashTranslator( texto ) );
+    res.send( ':alex: ~ ' + flashTranslator( texto ) );
 
   });
 };

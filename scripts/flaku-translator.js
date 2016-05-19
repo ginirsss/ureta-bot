@@ -30,8 +30,8 @@ module.exports = function(robot) {
   robot.respond(/flaku (.*)/i, function(res) {
     var textu = res.match[1];
 
-    res.send( flakuTranslator( textu ) );
-    res.send( flakuTranslator( garabatus[Math.floor(Math.random() * garabatus.length)] ) );
+    res.send( ':flaku: ~ ' + flakuTranslator( textu ) );
+    res.send( ':flaku: ~ ' + flakuTranslator( garabatus[Math.floor(Math.random() * garabatus.length)] ) );
 
   });
 };
