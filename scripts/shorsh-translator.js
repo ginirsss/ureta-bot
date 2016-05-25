@@ -57,8 +57,8 @@ module.exports = function(robot) {
   robot.respond(/shorsh (.*)/i, function(res) {
     var textu = res.match[1];
 
-    res.send( shorshTranslator( textu ) );
-    res.send( shorshTranslator( garabatinhos[Math.floor(Math.random() * garabatinhos.length)] ) );
+    res.send( ':shorsh: ~ ' + shorshTranslator( textu ) );
+    res.send( ':shorsh: ~ ' + shorshTranslator( garabatinhos[Math.floor(Math.random() * garabatinhos.length)] ) );
 
   });
 };
