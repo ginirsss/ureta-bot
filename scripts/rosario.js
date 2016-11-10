@@ -21,7 +21,7 @@ var rosario = [
 ];
 
 module.exports = function(robot) {
-  robot.hear(/broota/gi, function(res) {
+  robot.hear(/rosario/gi, function(res) {
 
     res.send( rosario[Math.floor(Math.random() * rosario.length)] );
 
